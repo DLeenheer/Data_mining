@@ -50,7 +50,7 @@ Yes, the four most common job titles overall are general titles with the first d
 Top 20-50 job title lists for the top 5 to 10 industries from this data set will be ultilized to provide recommendations for future client campaigns in my role at work. The trends and nuiances discovered proved the importance
 of further investigations of job titles in specific industries/other criteria (ex. Manager and Entry level job title investigations). I will recommend that general titles are included in the prospecting mix along with department/role specific titles.
 
-# Link to video - my video is over 10MB so I am blocked from adding the video link to this file. I am going to create a separate Part 6 file and try uploading there. 
+# Link to video - my video is over 10MB so I am blocked from adding the video link to this file. I added the video file to the Part 6 submission in Moodle. 
 
 # Link to presentation slide deck (linking this because of the video presentation file size issue) [Group10_HowDoWeIncreasePositiveResponsestoEmails_Part6.pdf](https://github.com/DLeenheer/CSPB_4502_project/files/13643746/Group10_HowDoWeIncreasePositiveResponsestoEmails_Part6.pdf)
 
