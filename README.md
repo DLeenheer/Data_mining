@@ -1,5 +1,8 @@
-# Part 5 Code and formulas used in this project
-# Code for internal file export from Athena (SQL Query) - 
+# Part 5  Project Code and Descriptions
+# Code and formulas used in this project
+
+Code for internal file export from Athena (SQL Query) - 
+
 select title, state, country
 from public_contact limit 50000
 
